@@ -1,5 +1,9 @@
 # Telegram Memory Forensics CLI Tool
 
+(This repository demonstrates a simplified version of my research project.
+- The full implementation includes advanced detection logic and dataset-specific tuning.
+- Due to ongoing research submission, only a minimal reproducible version is shared here.
+- The project focuses on automated analysis of memory artifacts and detection of suspicious patterns.)
 Extract and parse Telegram Web messages from Windows memory dumps using Volatility 3.
 
 ---
