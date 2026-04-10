@@ -18,6 +18,17 @@ The code provided here focuses on:
 
 ---
 
+## 📌 안내
+
+현재 논문 심사 중인 연구 프로젝트이기 때문에, 일부 내용을 단순화하여 공개했습니다.
+주요 내용은 다음과 같습니다:
+- Selenium 기반 실험 환경 자동화 코드
+- Telegram Web 버전별 메모리 아티팩트 파싱 코드
+- Volatility 기반 Telegram Web 프로세스 필터링 플러그인
+- 전체 과정을 한 번에 실행하는 PowerShell 스크립트
+
+---
+
 ## Requirements
 
 - Python 3.9+
