@@ -2,11 +2,20 @@
 
 A CLI tool for extracting and parsing Telegram Web artifacts from Windows memory dumps using Volatility 3.
 
-(This repository demonstrates a simplified version of my research project.
-- The full implementation includes advanced detection logic and dataset-specific tuning.
-- Due to ongoing research submission, only a minimal reproducible version is shared here.
-- The project focuses on automated analysis of memory artifacts and detection of suspicious patterns.)
- 
+---
+
+## 📌 Notice
+
+This repository contains a simplified version of my research project.
+
+Due to an ongoing paper submission, some parts of the full implementation are not included.
+
+The code provided here focuses on:
+- Automating experimental environments using Selenium
+- Parsing Telegram Web memory artifacts across different versions
+- Filtering Telegram-related processes using a Volatility plugin
+- Running the full pipeline with a PowerShell script
+
 ---
 
 ## Requirements
