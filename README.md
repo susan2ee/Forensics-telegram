@@ -6,7 +6,7 @@ A CLI tool for extracting and parsing Telegram Web artifacts from Windows memory
 - The full implementation includes advanced detection logic and dataset-specific tuning.
 - Due to ongoing research submission, only a minimal reproducible version is shared here.
 - The project focuses on automated analysis of memory artifacts and detection of suspicious patterns.)
-- 
+ 
 ---
 
 ## Requirements
